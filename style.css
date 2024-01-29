@@ -16,8 +16,8 @@
 @import url(./assets/css/responsive/tablet.css);
 
 :root {
-  --color-bg: #0d2a47;
-  --color-bg-varient: #1d466f;
+  --color-bg: #ffc107;
+  --color-bg-varient: #ff9800;
   --color-primary: #0080fb;
   --color-secondary: #0080fb;
   --color-primary-varient: rgba(77, 181, 255, 0.4);
